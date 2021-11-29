@@ -1,3 +1,3 @@
-# codingBlock
+# JavaCoding
 
 Java Coding Interview Questions.
